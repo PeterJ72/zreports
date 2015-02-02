@@ -1,0 +1,12 @@
+To add a delivery follow these steps -
+
+Starting on the Orders page (on the Stock tab), select the supplier from the dropdown menu.
+Start entering the product on the Product field. You can use any sequence of letters from the product name - matches will start appearing after you've entered at least two characters.
+Select the product you want (either navigate to it with your mouse or the up/down keys) and either hit tab or enter.
+Enter the quantity and then either the exc. VAT or inc. VAT amount. The VAT number will be automatically calculated, but it can also be edited.
+To enter another product either hit tab again or the '+' symbol.
+The total amount of the invoice can be adjusted using the 'Adjust' field/button. 
+When you are ready to enter the delivery hit 'Save as Delivered', then select the stock the delivery is being made to and the delivery date (delivery time not important at this point. 
+Entered deliveries can be found on the Deliveries page. 
+
+Note that the delivery pop-up in the attached GIF also shows information for entering the invoice date and payment details. This is only visible for the Bookkeeper user and will be explained in a later lesson. 
